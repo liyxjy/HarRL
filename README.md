@@ -1,4 +1,4 @@
-## layout
+## Layout
 - models2/
   - actor_critic(_v1).py — actor and critic architectures
   - self_attn.py — encoder / attention modules
